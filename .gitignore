@@ -1,0 +1,7 @@
+build
+.bundle
+vendor
+tmp
+db/schema.rb
+.ruby-version
+
