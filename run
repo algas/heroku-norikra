@@ -1,0 +1,2 @@
+#!/bin/bash
+norikra start --ui-port=$PORT $NORIKRA_OPTS

@@ -1,1 +1,1 @@
-web: norikra start --ui-port=$PORT
+web: ./run
