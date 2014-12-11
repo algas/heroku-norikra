@@ -1,2 +1,2 @@
 #!/bin/bash
-norikra start --ui-port=$PORT $NORIKRA_OPTS
+norikra start --ui-port=$PORT $OPT1 $OPT2 $OPT3 $OPT4 $OPT5
